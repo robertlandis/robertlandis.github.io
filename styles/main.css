@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins';
+}
+
+.comingSoonWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 2em;
+}
